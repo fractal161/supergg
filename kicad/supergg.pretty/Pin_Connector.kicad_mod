@@ -1,4 +1,4 @@
-(footprint "Cart_Connector"
+(footprint "Pin_Connector"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Cart_Connector"
+	(property "Value" "Pin_Connector"
 		(at 0 -4.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -66,7 +66,7 @@
 			)
 		)
 	)
-	(pad "1" thru_hole circle
+	(pad "1" thru_hole rect
 		(at -45 -2.5)
 		(size 1.6 1.6)
 		(drill 0.8)
