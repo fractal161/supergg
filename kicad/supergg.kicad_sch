@@ -5632,7 +5632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "supergg:Pin_Connector"
 			(at 68.58 91.44 0)
 			(effects
 				(font
@@ -5910,7 +5910,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "supergg:Edge_Connector"
 			(at 194.31 91.44 0)
 			(effects
 				(font
